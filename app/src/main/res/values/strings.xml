@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesignConcepts</string>
+    <string name="title_activity_text_view">TextViewActivity</string>
+    <string name="htmlFormattedString">
+        <![CDATA[Metes el link <a href="http//www.google.es">Nombre del link</a> sigues escribiendo <b>mucho</b>]]>
+    </string>
+    <string name="username_error">introduce un nombre corto</string>
+    <string name="prompt">Planetas</string>
+</resources>
